@@ -1,11 +1,11 @@
 # Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation
-This is a [pytorch](http://pytorch.org/) implementation of [SSAN](https://arxiv.org/abs/2005.06717).
+This is a [pytorch](http://pytorch.org/) implementation of [SSAN](https://arxiv.org/abs/2008.01677).
 
 ### Paper
 
 ![](./teaser.jpg)
 
-[Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation ](https://arxiv.org/abs/2005.06717) 
+[Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation ](https://arxiv.org/abs/2008.01677) 
 
 [Shuang Li](http://shuangli.xyz), [Binhui Xie](https://binhuixie.github.io), [Jiashu Wu](https://jiashuwu.github.io), Ying Zhao, [Chi Harold Liu](http://cs.bit.edu.cn/szdw/jsml/js/lc_20180927062826951290/index.htm), [Zhengming Ding](http://allanding.net)
 
@@ -56,7 +56,7 @@ Especially thanks to [Yuan Yao](https://www.researchgate.net/profile/Yuan_Yao67)
 
 
 ### Citation
-If you find this code useful for your research, please cite our [paper](https://arxiv.org/abs/2005.06717):
+If you find this code useful for your research, please cite our [paper](https://arxiv.org/abs/2008.01677):
 ```
 @inproceedings{li2020simultaneous,
     title = {Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation},
