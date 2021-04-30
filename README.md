@@ -61,7 +61,9 @@ If you find this code useful for your research, please cite our [paper](https://
 @inproceedings{li2020simultaneous,
     title = {Simultaneous Semantic Alignment Network for Heterogeneous Domain Adaptation},
     author = {Li, Shuang and Xie, Binhui and Wu, Jiashu and Zhao, Ying and Liu, Chi Harold and Ding, Zhengming},
-    booktitle = {28th ACM International Conference on Multimedia (MM'20))},    
+    booktitle = {The 28th ACM International Conference on Multimedia (MM'20))}, 
+    pages     = {3866--3874},
+    publisher = {{ACM}},
     year = {2020}
 }
 ```
