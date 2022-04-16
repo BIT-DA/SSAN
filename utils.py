@@ -13,7 +13,7 @@ def seed_everything(args):
     torch.manual_seed(args.seed)
     torch.cuda.manual_seed_all(args.seed)
     np.random.seed(args.seed)
-    os.environ['PYTHONASHSEED'] = str(args.seed)
+    os.environ['PYTHONHASHSEED'] = str(args.seed)
 
 
 # Write Log Record
